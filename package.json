@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "name": "SemanticUI-jQuery-ES6-Boilerplate",
+  "version": "0.1.0",
+  "description": "A boilerplate for advanced content and forms.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.dev.js",
+    "build:live": "webpack --config webpack.prod.js",
+    "watch": "webpack --watch --config webpack.dev.js",
+    "live-reload": "webpack-dev-server --config webpack.dev.js",
+    "bundle-stats": "\"webpack --profile --config webpack.prod.js --json > bundle-stats.json\" && webpack-bundle-analyzer bundle-stats.json ./dist/js",
+    "eslint:init": "eslint --init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-object-assign": "^7.2.0",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5",
+    "compass-sass-mixins": "^0.12.7",
+    "css-loader": "^2.1.0",
+    "eslint": "^5.12.0",
+    "eslint-config-jquery": "^1.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-jquery": "^1.5.0",
+    "html-loader": "^0.5.5",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.4",
+    "webpack-bundle-analyzer": "^3.0.3",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {}
+}

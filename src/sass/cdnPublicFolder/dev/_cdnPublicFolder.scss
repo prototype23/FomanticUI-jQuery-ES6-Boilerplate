@@ -1,0 +1,6 @@
+// For Developement environment.
+$commonFileBasePath: '';
+
+@function cdnFile($file) {
+  @return url($commonFileBasePath + $file);
+}

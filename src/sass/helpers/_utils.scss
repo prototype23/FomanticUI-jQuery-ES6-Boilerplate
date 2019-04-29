@@ -1,0 +1,74 @@
+// Milligram has these utils https://milligram.io/#utilities
+// On this file we place our utils.
+
+.height__full-h {
+  height: 100%;
+}
+
+.text-color__white {
+  color: white;
+}
+
+.text-align__center {
+  text-align: center;
+}
+
+.text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.clearFix {
+  clear: both;
+}
+.spacer--xs {
+  padding: 15px;
+}
+.spacer--sm {
+  padding: 25px;
+}
+.spacer {
+  padding: 50px;
+}
+.spacer--md {
+  padding: 75px;
+}
+.spacer--lg {
+  padding: 100px;
+}
+
+.paragraph-point-out {
+  color: $brandColorQuaternary;
+  font-size: larger;
+  font-weight: bold;
+}
+/*
+  Vertical align content:
+
+  Needs at least 2 nested div elements:
+  <div class="vertical-align-table">
+    <div class="vertical-align-table-cell">
+      ...
+    </div>
+  </div>
+*/
+.vertical-align-table {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  height: 100%;
+  .vertical-align-table-cell  {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+
+.noScroll {
+  overflow: hidden;
+}
+
+.display--none {
+  display: none !important;
+}
+

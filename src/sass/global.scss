@@ -1,0 +1,24 @@
+@import "Compass";
+// @import "CompassAnimate";
+// @import "CompassReset";
+@import "./helpers/input-placeholder.scss";
+
+@import "_vars.scss";
+
+@import "./helpers/typography.scss";
+// @import "fonts.scss";
+
+// Local Ionicons and customization?
+// @import "Ionicons";
+// @import "./helpers/ionicons_customization.scss";
+
+
+// @import "./helpers/_utils.scss";
+@import "./helpers/_flash-message.scss";
+
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  position: relative;
+}

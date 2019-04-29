@@ -1,0 +1,14 @@
+@import "../_vars.scss";
+
+.test-animation .icon {
+  font-size: 150px;
+  color: $brandColorTertiary;
+}
+
+.page-loader {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}

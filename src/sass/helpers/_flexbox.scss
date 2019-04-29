@@ -1,0 +1,44 @@
+/*
+	 ==================================
+				Flexbox
+   ==================================
+   Coverage & Bugs: https://caniuse.com/#search=flexbox
+   Bugs: https://github.com/philipwalton/flexbugs
+   Wizard: http://georapbox.github.io/flexbox-playground/
+*/
+
+/* Parent */
+@mixin flex-container() {
+    @include display-flex;
+    @include flex-direction(row);
+    @include flex-wrap(wrap);
+    @include justify-content(space-between);
+    @include align-items(flex-start);
+    @include align-content(flex-start);
+
+    &.space-around {
+        @include justify-content(space-around);
+    }
+    &.flex-start {
+        @include justify-content(flex-start);
+    }
+    &.center {
+        @include justify-content(center);
+    }
+}
+
+/* Children */
+@mixin flex-item() {
+    @include order(0);
+    @include flex-grow(0);
+    @include flex-shrink(1);
+    @include flex-basis(auto);
+    @include align-self(auto);
+    &.flex-align-self {
+      @include align-self(auto);
+    }
+    &.flex-grow {
+        @include flex-shrink(0);
+        @include flex-grow(1);
+    }
+}
