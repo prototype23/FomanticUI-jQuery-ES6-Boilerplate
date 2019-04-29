@@ -18,8 +18,6 @@ module.exports = {
       CompassAnimate: path.resolve(__dirname, 'node_modules/compass-sass-mixins/lib/_animate.sass'),
       // When calling '@import 'CompassReset';.
       CompassReset: path.resolve(__dirname, 'node_modules/compass-sass-mixins/lib/compass/reset/_utilities.sass'),
-      // When calling '@import 'Milligram';
-      Milligram: path.resolve(__dirname, 'node_modules/milligram/src/milligram.sass'),
       // When calling '@import 'Ionicons';
       // Ionicons: path.resolve(__dirname, 'dist/fonts/ionicons/ionicons.css'),
     }
