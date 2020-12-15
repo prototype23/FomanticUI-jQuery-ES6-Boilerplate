@@ -6,14 +6,17 @@ import '../sass/index/index.scss';
 // Expose jQuery globally so other plugins using global var can work!
 // window.$ = window.jQuery = jquery;
 
-
-import flashMessage from './flash-message.js';
-// import carousel from './carousel.js';
-
 $(document).ready(function () {
-  setTimeout(() => flashMessage('js works!'), 1500);
 
-  // carousel.init();
+  $('body')
+    .toast({
+      title: 'Awesome',
+      message: 'Js works',
+      class: 'purple',
+      className: {
+        toast: 'ui message'
+      }
+    });
 
   $('.test-animation')
     .transition('bounce');

@@ -1,8 +1,8 @@
 
-# Semantic UI - jQuery - ES6 Boilerplate
+# Fomantic UI - jQuery - ES6 Boilerplate
 A boilerplate for advanced content and forms.
 
-## What's included
+## What's included on package.json
   - [webpack v4](https://webpack.js.org/guides/installation/) - Asset Bundler.
     - Configuration for multiple [environments](#environments) and CDNs.
     - [Bundle Analyser](https://github.com/webpack-contrib/webpack-bundle-analyzer)
@@ -10,13 +10,15 @@ A boilerplate for advanced content and forms.
     - Configuration for ie11 support.
   - [IDE tools - ESLint](#IDE-tools-ESLint)
   - [Sass](http://sass-lang.com/) and [Compass mixins](https://github.com/askucher/compass-sass-mixins) - Scss compiler and utils.
-  - [semantic UI](https://semantic-ui.com) - User Interface is the language of the web.
-    - Loaded by CDN url. No example available for custom build.
-  - [Ionicons](https://ionicons.com/) - Font icons.
+
+## What's included with simple CDN load
+  - [Fomantic UI 2.8.7](https://Fomantic-ui.com) - User Interface is the language of the web.
+    - Loaded by CDN url.
+  - [Ionicons 4.5.10-0](https://ionicons.com/v4/) - Font icons.
     - Fonts are loaded by cdn url by default, but boilerplate contains an example if you prefer to load them with webpack.
-  - [jQuery, v3.4.0](https://jquery.com/) - Event management and DOM manipulation.
+  - [jQuery, v3.5.1](https://jquery.com/) - Event management and DOM manipulation.
     - Jquery is loaded by cdn url by default, but boilerplate contains a webpack configuration and a js example if you prefer to load it with webpack. Just uncomment `Expose jQuery` section on the `wepack.common.js` file and `src/index.js`.
-  - [owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) - Carousel.
+
 
 ### Some custom js helpers:
   - A js helper for the carousel. (carousel.js)
@@ -27,7 +29,7 @@ A boilerplate for advanced content and forms.
   - Scss font face example. (_fonts.scss)
   - A flexbox scss mixin helper. (_flexbox.scss)
   - A missing scss mixin for the placeholder. (_input-placeholder.scss)
-  - An extra sets of color variables. Link for the Semantic UI colors provided too. (_vars.scss)
+  - An extra sets of color variables. Link for the Fomantic UI colors provided too. (_vars.scss)
 
 ## Folder structure
 ### Needed on Distribution / Live
