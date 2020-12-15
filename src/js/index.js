@@ -1,4 +1,3 @@
-
 import '../sass/global.scss';
 import '../sass/index/index.scss';
 
@@ -23,7 +22,3 @@ $(document).ready(function () {
 
   $('.page-loader').removeClass('active');
 });
-
-
-
-

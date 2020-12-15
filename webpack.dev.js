@@ -21,12 +21,14 @@ module.exports = merge(common, {
     rules: [
       {
         test: /\.scss$/, use: [
-          {loader: 'style-loader'},
-          {loader: 'css-loader?url=false'},
+          { loader: 'style-loader' },
+          { loader: 'css-loader?url=false' },
           {
             loader: 'sass-loader',
             options: {
-              includePaths: ['./src/sass', './src/sass/cdnPublicFolder/dev']
+              sassOptions: {
+                includePaths: ['./src/sass', './src/sass/cdnPublicFolder/dev']
+              }
             }
           }
         ]
