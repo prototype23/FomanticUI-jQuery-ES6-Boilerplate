@@ -20,16 +20,11 @@ A boilerplate for advanced content and forms.
     - Jquery is loaded by cdn url by default, but boilerplate contains a webpack configuration and a js example if you prefer to load it with webpack. Just uncomment `Expose jQuery` section on the `wepack.common.js` file and `src/index.js`.
 
 
-### Some custom js helpers:
-  - A js helper for the carousel. (carousel.js)
-  - A minimal flash messenger. (flash-message.js)
-
 ### Some custom scss/css helpers:
   - Scss utils. (utils.scss)
   - Scss font face example. (_fonts.scss)
   - A flexbox scss mixin helper. (_flexbox.scss)
   - A missing scss mixin for the placeholder. (_input-placeholder.scss)
-  - An extra sets of color variables. Link for the Fomantic UI colors provided too. (_vars.scss)
 
 ## Folder structure
 ### Needed on Distribution / Live
