@@ -1,4 +1,4 @@
-const merge = require('webpack-merge');
+const { merge } = require('webpack-merge');
 const common = require('./webpack.common.js');
 const path = require('path');
 
@@ -7,11 +7,18 @@ module.exports = merge(common, {
   mode: 'development',
   // webpack-dev-server settings (live-reload options)
   devServer: {
-    contentBase: path.join(__dirname, 'dist'),
-    watchContentBase: true,
-    port: 9000,
-    inline: false,
     open: true,
+    port: 9000,
+    contentBase: path.resolve(__dirname, 'dist'),
+    publicPath: './dist/',
+    filename: 'index.bundle.js',
+    watchContentBase: true,
+    liveReload: true,
+    hot: false,
+    lazy: false,
+    // inline: false,
+    // overlay: true,
+    // compress: true,
     watchOptions: {
       ignored: /node_modules/
     },
@@ -27,7 +34,7 @@ module.exports = merge(common, {
             loader: 'sass-loader',
             options: {
               sassOptions: {
-                includePaths: ['./src/sass', './src/sass/cdnPublicFolder/dev']
+                includePaths: [path.resolve(__dirname, 'src/sass'), path.resolve(__dirname, 'src/sass/cdnPublicFolder/dev')]
               }
             }
           }

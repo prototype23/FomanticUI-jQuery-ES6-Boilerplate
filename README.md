@@ -3,21 +3,22 @@
 A boilerplate for advanced content and forms.
 
 ## What's included on package.json
-  - [webpack v4](https://webpack.js.org/guides/installation/) - Asset Bundler.
+  - [webpack v5](https://webpack.js.org/) - Asset Bundler.
     - Configuration for multiple [environments](#environments) and CDNs.
     - [Bundle Analyser](https://github.com/webpack-contrib/webpack-bundle-analyzer)
   - [Babel v7](https://babeljs.io/) - ES6 javascript compiler.
     - Configuration for ie11 support.
-  - [IDE tools - ESLint](#IDE-tools-ESLint)
+  - [IDE tools - ESLint v5](#IDE-tools-ESLint)
   - [Sass](http://sass-lang.com/) and [Compass mixins](https://github.com/askucher/compass-sass-mixins) - Scss compiler and utils.
 
 ## What's included with simple CDN load
   - [Fomantic UI 2.8.7](https://Fomantic-ui.com) - User Interface is the language of the web.
-    - Loaded by CDN url.
+    - Loaded by CDN url. You can easily update the version.
   - [Ionicons 4.5.10-0](https://ionicons.com/v4/) - Font icons.
     - Fonts are loaded by cdn url by default, but boilerplate contains an example if you prefer to load them with webpack.
   - [jQuery, v3.5.1](https://jquery.com/) - Event management and DOM manipulation.
-    - Jquery is loaded by cdn url by default, but boilerplate contains a webpack configuration and a js example if you prefer to load it with webpack. Just uncomment `Expose jQuery` section on the `wepack.common.js` file and `src/index.js`.
+    . Loaded by CDN url. You can easily update the version.
+    - We have a webpack commented configuration and a js example if you prefer to load it with webpack. Just uncomment `Expose jQuery` section on the `wepack.common.js` file and `src/index.js`.
 
 
 ### Some custom scss/css helpers:
@@ -64,6 +65,7 @@ Concept:
   2. [CDN public urls on scss](#CDN-public-urls-on-scss)
 
 ## CDN public urls on scss
+**This might not work. Not tested with webpack 5**
 If your website uses CDNs for the images, css might require different urls per
 environment. For example an image preloader could have this url on development environment:
 
@@ -144,7 +146,9 @@ Watch files for changes and rebuild app:
 npm run watch
 ```
 
+
 Opens app on your default Browser and reloads page on changes.
+**Note that the reloading is currently broken with webpack v5.**
 ```
 npm run live-reload
 ```

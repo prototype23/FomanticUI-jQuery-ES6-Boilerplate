@@ -1,14 +1,19 @@
 const path = require('path');
 
 module.exports = {
+  /*  cache: {
+     type: 'filesystem'
+   }, */
   // Webpack main settings
   entry: {
-    index: './src/js/index.js'
+    index: path.resolve(__dirname, 'src/js/index.js'),
   },
   output: {
     filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist/js'),
+    publicPath: '/dist/'
   },
+  target: ['web', 'es5'],
   // Configure how modules are resolved.
   resolve: {
     alias: {
@@ -25,8 +30,8 @@ module.exports = {
   // Define pre-compilers, linters for each file type
   module: {
     rules: [
-      {test: /\.js$/, exclude: /node_modules/, use: ['babel-loader', 'eslint-loader']},
-      {test: /\.css$/, use: ['style-loader', 'css-loader?url=false']},
+      { test: /\.js$/, exclude: /node_modules/, use: ['babel-loader', 'eslint-loader'] },
+      { test: /\.css$/, use: ['style-loader', 'css-loader?url=false'] },
       {
         test: /\.(html)$/,
         use: {

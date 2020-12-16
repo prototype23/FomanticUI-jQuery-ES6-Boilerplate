@@ -6,7 +6,6 @@ import '../sass/index/index.scss';
 // window.$ = window.jQuery = jquery;
 
 $(document).ready(function () {
-
   $('body')
     .toast({
       title: 'Awesome',
@@ -14,7 +13,10 @@ $(document).ready(function () {
       class: 'purple',
       className: {
         toast: 'ui message'
-      }
+      },
+      closeIcon: true,
+      minDisplayTime: 0,
+      showProgress: 'bottom'
     });
 
   $('.test-animation')
