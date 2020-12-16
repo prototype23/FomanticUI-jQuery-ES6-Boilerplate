@@ -52,6 +52,4 @@ module.exports = {
       'window.jQuery': 'jquery'
     }),
   ], */
-  // devtool may have issues with ie11
-  devtool: false
 };

@@ -5,6 +5,8 @@ const path = require('path');
 module.exports = merge(common, {
   // webpack main settings
   mode: 'development',
+  // Shows Understandable errors for js, may cause problem on ie11
+  devtool: 'inline-source-map',
   // webpack-dev-server settings (live-reload options)
   devServer: {
     open: true,
