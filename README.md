@@ -2,6 +2,49 @@
 # Fomantic UI - jQuery - ES6 Boilerplate
 A boilerplate for advanced content and forms.
 
+## Demo page / Installation
+1. Fork/ Download this project
+2. [Install Nodejs/NPM](#Install-Nodejs/NPM) (Skip this if you already have nodejs installed)
+3. From the project's root run:
+```
+  npm install
+  npm run prod
+```
+## Development
+```
+  npm install
+  npm run dev
+```
+- Watches source files and builds the app for development on changes
+- Starts a nodejs web-server @ http://localhost:9000/
+- Opens the app there with your default browser (you have to manually reload the page)
+
+## Test app for Production
+```
+npm install
+npm run prod
+```
+- Builds the app for production
+- Starts a nodejs web-server @ http://localhost:9000/
+- Opens the app there with your default browser
+
+## Build app for Production
+```
+npm install
+npm run build:prod
+```
+
+
+## Bundle-stats
+```
+npm install
+npm run stats
+```
+Builds the app for production and opens an interactive page on your browser with bundle statistics.
+This will help you to understand your bundle and optimize your app.
+Also creates a `bundle-stats.json` file.
+
+
 ## What's included on package.json
   - [webpack v5](https://webpack.js.org/) - Asset Bundler.
     - Configuration for multiple [environments](#environments) and CDNs.
@@ -122,50 +165,4 @@ $commonFileBasePath: '/_commonFiles';
 }
 ```
 
-## Demo page / Installation
-1. Fork/ Download this project
-2. [Install Nodejs/NPM](#Install-Nodejs/NPM) (Skip this if you already have nodejs installed)
-3. From the project's root run:
-```
-  npm install
-```
-4. Start development..
-```
-  npm run watch
-  npm run live-reload
-```
-
-Or build the bundle for live and open `dist/index.html` on your browser.
-```
-  npm run build:live
-```
-
-## NPM tasks
-Watch files for changes and rebuild app:
-```
-npm run watch
-```
-
-
-Opens app on your default Browser and reloads page on changes.
-**Note that the reloading is currently broken with webpack v5.**
-```
-npm run live-reload
-```
-
-Build the app for local development:
-```
-npm run build
-```
-
-Build the app for the production server:
-```
-npm run build:live
-```
-
-Make a bundle and view the stats:
-```
-npm run bundle-stats
-```
-Also creates a `bundle-stats.json` file.
 

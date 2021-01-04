@@ -1,0 +1,2555 @@
+{
+  "hash": "deae0d5a1e8a4ba3f87d",
+  "version": "5.10.3",
+  "time": 1948,
+  "builtAt": 1609755359595,
+  "publicPath": "/dist/",
+  "outputPath": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\dist\\js",
+  "assetsByChunkName": {
+    "index": [
+      "index.bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "index.bundle.js",
+      "size": 4353,
+      "emitted": false,
+      "comparedForEmit": true,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 4353
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        826
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 11387,
+      "sizes": {
+        "javascript": 10669,
+        "runtime": 718
+      },
+      "names": [
+        "index"
+      ],
+      "idHints": [],
+      "runtime": [
+        "index"
+      ],
+      "files": [
+        "index.bundle.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "71f84f8d0c4e6fccadfa",
+      "childrenByOrder": {},
+      "id": 826,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 439,
+          "sizes": {
+            "javascript": 439
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "issuerName": "./src/sass/global.scss",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            },
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "name": "./src/sass/global.scss",
+              "profile": {
+                "total": 59,
+                "resolving": 4,
+                "restoring": 0,
+                "building": 55,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 4,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 679,
+            "resolving": 2,
+            "restoring": 0,
+            "building": 677,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 2,
+            "dependencies": 0
+          },
+          "id": 887,
+          "issuerId": null,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "2:12-173",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "9:17-24",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "13:15-29",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./src/sass/global.scss",
+              "moduleName": "./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "2:12-173",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./src/sass/global.scss",
+              "moduleName": "./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "9:17-24",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./src/sass/global.scss",
+              "moduleName": "./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+              "loc": "13:15-29",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+            "ModuleConcatenation bailout: Module uses module.id"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 416,
+          "sizes": {
+            "javascript": 416
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "index": 6,
+          "preOrderIndex": 6,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "issuerName": "./src/sass/index/index.scss",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            },
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "name": "./src/sass/index/index.scss",
+              "profile": {
+                "total": 6,
+                "resolving": 5,
+                "restoring": 0,
+                "building": 1,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 5,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 333,
+            "resolving": 1,
+            "restoring": 0,
+            "building": 332,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 1,
+            "dependencies": 0
+          },
+          "id": 389,
+          "issuerId": null,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "2:12-178",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "9:17-24",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "13:15-29",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./src/sass/index/index.scss",
+              "moduleName": "./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "2:12-178",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./src/sass/index/index.scss",
+              "moduleName": "./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "9:17-24",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./src/sass/index/index.scss",
+              "moduleName": "./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+              "loc": "13:15-29",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+            "ModuleConcatenation bailout: Module uses module.id"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 1605,
+          "sizes": {
+            "javascript": 1605
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "name": "./node_modules/css-loader/dist/runtime/api.js",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            },
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "name": "./src/sass/index/index.scss",
+              "profile": {
+                "total": 6,
+                "resolving": 5,
+                "restoring": 0,
+                "building": 1,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 5,
+                "dependencies": 0
+              },
+              "id": null
+            },
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "profile": {
+                "total": 333,
+                "resolving": 1,
+                "restoring": 0,
+                "building": 332,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 1,
+                "dependencies": 0
+              },
+              "id": 389
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 645,
+          "issuerId": 389,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "2:0-92",
+              "moduleId": 887,
+              "resolvedModuleId": 887
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "3:30-57",
+              "moduleId": 887,
+              "resolvedModuleId": 887
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "2:0-95",
+              "moduleId": 389,
+              "resolvedModuleId": 389
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "3:30-57",
+              "moduleId": 389,
+              "resolvedModuleId": 389
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "module": "./node_modules/css-loader/dist/runtime/api.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "9:0-14",
+              "moduleId": 645,
+              "resolvedModuleId": 645
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 9:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 3
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 6827,
+          "sizes": {
+            "javascript": 6827
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+          "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "issuerName": "./src/sass/global.scss",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            },
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "name": "./src/sass/global.scss",
+              "profile": {
+                "total": 59,
+                "resolving": 4,
+                "restoring": 0,
+                "building": 55,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 4,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 379,
+          "issuerId": null,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "1:0-92",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "9:13-16",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "1:0-95",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+              "module": "./src/js/index.js + 2 modules",
+              "moduleName": "./src/js/index.js + 2 modules",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "9:13-16",
+              "moduleId": 55,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./src/sass/global.scss",
+              "moduleName": "./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "1:0-92",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "module": "./src/sass/global.scss",
+              "moduleName": "./src/sass/global.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "resolvedModule": "./src/sass/global.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "9:13-16",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./src/sass/index/index.scss",
+              "moduleName": "./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "1:0-95",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "module": "./src/sass/index/index.scss",
+              "moduleName": "./src/sass/index/index.scss",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "resolvedModule": "./src/sass/index/index.scss",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "9:13-16",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+              "module": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "moduleName": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+              "resolvedModule": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "230:0-14",
+              "moduleId": 379,
+              "resolvedModuleId": 379
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 230:0-14",
+            "Statement (VariableDeclaration) with side effects in source code at 3:0-17:4",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "size": 1382,
+          "sizes": {
+            "javascript": 1382
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "name": "./src/js/index.js + 2 modules",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 55,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "loc": "index",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss: Module uses module.id",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss: Module uses module.id",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js: Module is not an ECMAScript module"
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 544,
+              "sizes": {
+                "javascript": 544
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 6,
+              "postOrderIndex": 6,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 6:0-20:3"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 415,
+              "sizes": {
+                "javascript": 415
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "name": "./src/sass/global.scss",
+              "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 3,
+              "postOrderIndex": 3,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "issuerName": "./src/js/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "name": "./src/js/index.js",
+                  "profile": {
+                    "total": 926,
+                    "resolving": 27,
+                    "restoring": 0,
+                    "building": 899,
+                    "integration": 0,
+                    "storing": 0,
+                    "additionalResolving": 0,
+                    "additionalIntegration": 0,
+                    "factory": 27,
+                    "dependencies": 0
+                  },
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 59,
+                "resolving": 4,
+                "restoring": 0,
+                "building": 55,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 4,
+                "dependencies": 0
+              },
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "module": "./src/js/index.js",
+                  "moduleName": "./src/js/index.js",
+                  "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "resolvedModule": "./src/js/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../sass/global.scss",
+                  "loc": "1:0-29",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 423,
+              "sizes": {
+                "javascript": 423
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "name": "./src/sass/index/index.scss",
+              "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+              "index": 5,
+              "preOrderIndex": 5,
+              "index2": 5,
+              "postOrderIndex": 5,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "issuerName": "./src/js/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "name": "./src/js/index.js",
+                  "profile": {
+                    "total": 926,
+                    "resolving": 27,
+                    "restoring": 0,
+                    "building": 899,
+                    "integration": 0,
+                    "storing": 0,
+                    "additionalResolving": 0,
+                    "additionalIntegration": 0,
+                    "factory": 27,
+                    "dependencies": 0
+                  },
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 6,
+                "resolving": 5,
+                "restoring": 0,
+                "building": 1,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 5,
+                "dependencies": 0
+              },
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "module": "./src/js/index.js",
+                  "moduleName": "./src/js/index.js",
+                  "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+                  "resolvedModule": "./src/js/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../sass/index/index.scss",
+                  "loc": "2:0-34",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+              ],
+              "depth": 1
+            }
+          ]
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 302,
+          "sizes": {
+            "runtime": 302
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 313,
+          "sizes": {
+            "runtime": 313
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "index",
+          "request": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "size": 1382,
+      "sizes": {
+        "javascript": 1382
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+      "name": "./src/js/index.js + 2 modules",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 55,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "loc": "index",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss: Module uses module.id",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss: Module uses module.id",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js: Module is not an ECMAScript module"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 544,
+          "sizes": {
+            "javascript": 544
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 6:0-20:3"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 415,
+          "sizes": {
+            "javascript": 415
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "name": "./src/sass/global.scss",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "issuerName": "./src/js/index.js",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 59,
+            "resolving": 4,
+            "restoring": 0,
+            "building": 55,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 4,
+            "dependencies": 0
+          },
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "module": "./src/js/index.js",
+              "moduleName": "./src/js/index.js",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "resolvedModule": "./src/js/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../sass/global.scss",
+              "loc": "1:0-29",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 423,
+          "sizes": {
+            "javascript": 423
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "name": "./src/sass/index/index.scss",
+          "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "issuerName": "./src/js/index.js",
+          "issuerPath": [
+            {
+              "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "name": "./src/js/index.js",
+              "profile": {
+                "total": 926,
+                "resolving": 27,
+                "restoring": 0,
+                "building": 899,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 27,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 6,
+            "resolving": 5,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 5,
+            "dependencies": 0
+          },
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "module": "./src/js/index.js",
+              "moduleName": "./src/js/index.js",
+              "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+              "resolvedModule": "./src/js/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../sass/index/index.scss",
+              "loc": "2:0-34",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+          ],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 415,
+      "sizes": {
+        "javascript": 415
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "name": "./src/sass/global.scss",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+      "issuerName": "./src/js/index.js",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 59,
+        "resolving": 4,
+        "restoring": 0,
+        "building": 55,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 4,
+        "dependencies": 0
+      },
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "module": "./src/js/index.js",
+          "moduleName": "./src/js/index.js",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "resolvedModule": "./src/js/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../sass/global.scss",
+          "loc": "1:0-29",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 423,
+      "sizes": {
+        "javascript": 423
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "name": "./src/sass/index/index.scss",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+      "issuerName": "./src/js/index.js",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 6,
+        "resolving": 5,
+        "restoring": 0,
+        "building": 1,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 5,
+        "dependencies": 0
+      },
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "module": "./src/js/index.js",
+          "moduleName": "./src/js/index.js",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "resolvedModule": "./src/js/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../sass/index/index.scss",
+          "loc": "2:0-34",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 4:0-17"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 6827,
+      "sizes": {
+        "javascript": 6827
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+      "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "issuerName": "./src/sass/global.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        },
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "name": "./src/sass/global.scss",
+          "profile": {
+            "total": 59,
+            "resolving": 4,
+            "restoring": 0,
+            "building": 55,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 4,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 0,
+        "resolving": 0,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 0,
+        "dependencies": 0
+      },
+      "id": 379,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "1:0-92",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "9:13-16",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "1:0-95",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "9:13-16",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./src/sass/global.scss",
+          "moduleName": "./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "1:0-92",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./src/sass/global.scss",
+          "moduleName": "./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "9:13-16",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./src/sass/index/index.scss",
+          "moduleName": "./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "1:0-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./src/sass/index/index.scss",
+          "moduleName": "./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "9:13-16",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+          "module": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "moduleName": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+          "resolvedModule": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "230:0-14",
+          "moduleId": 379,
+          "resolvedModuleId": 379
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 230:0-14",
+        "Statement (VariableDeclaration) with side effects in source code at 3:0-17:4",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 439,
+      "sizes": {
+        "javascript": 439
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+      "issuerName": "./src/sass/global.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        },
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "name": "./src/sass/global.scss",
+          "profile": {
+            "total": 59,
+            "resolving": 4,
+            "restoring": 0,
+            "building": 55,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 4,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 679,
+        "resolving": 2,
+        "restoring": 0,
+        "building": 677,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 2,
+        "dependencies": 0
+      },
+      "id": 887,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "2:12-173",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "9:17-24",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "13:15-29",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./src/sass/global.scss",
+          "moduleName": "./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "2:12-173",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./src/sass/global.scss",
+          "moduleName": "./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "9:17-24",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./src/sass/global.scss",
+          "moduleName": "./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js?url=false!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./global.scss",
+          "loc": "13:15-29",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+        "ModuleConcatenation bailout: Module uses module.id"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 416,
+      "sizes": {
+        "javascript": 416
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "issuerName": "./src/sass/index/index.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        },
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "name": "./src/sass/index/index.scss",
+          "profile": {
+            "total": 6,
+            "resolving": 5,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 5,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 333,
+        "resolving": 1,
+        "restoring": 0,
+        "building": 332,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 1,
+        "dependencies": 0
+      },
+      "id": 389,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "2:12-178",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "9:17-24",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js|d3b38529ce6e70edf0ef6362a85f6fbf",
+          "module": "./src/js/index.js + 2 modules",
+          "moduleName": "./src/js/index.js + 2 modules",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "13:15-29",
+          "moduleId": 55,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./src/sass/index/index.scss",
+          "moduleName": "./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "2:12-178",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./src/sass/index/index.scss",
+          "moduleName": "./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "9:17-24",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./src/sass/index/index.scss",
+          "moduleName": "./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "!!../../../node_modules/css-loader/dist/cjs.js?url=false!../../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./index.scss",
+          "loc": "13:15-29",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+        "ModuleConcatenation bailout: Module uses module.id"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 1605,
+      "sizes": {
+        "javascript": 1605
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\babel-loader\\lib\\index.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\eslint-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\js\\index.js",
+          "name": "./src/js/index.js",
+          "profile": {
+            "total": 926,
+            "resolving": 27,
+            "restoring": 0,
+            "building": 899,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 27,
+            "dependencies": 0
+          },
+          "id": null
+        },
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\style-loader\\dist\\cjs.js!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "name": "./src/sass/index/index.scss",
+          "profile": {
+            "total": 6,
+            "resolving": 5,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 5,
+            "dependencies": 0
+          },
+          "id": null
+        },
+        {
+          "identifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "name": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "profile": {
+            "total": 333,
+            "resolving": 1,
+            "restoring": 0,
+            "building": 332,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 1,
+            "dependencies": 0
+          },
+          "id": 389
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 0,
+        "resolving": 0,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 0,
+        "dependencies": 0
+      },
+      "id": 645,
+      "issuerId": 389,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "2:0-92",
+          "moduleId": 887,
+          "resolvedModuleId": 887
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\global.scss",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/global.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:30-57",
+          "moduleId": 887,
+          "resolvedModuleId": 887
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "2:0-95",
+          "moduleId": 389,
+          "resolvedModuleId": 389
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "module": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\cjs.js?url=false!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\sass-loader\\dist\\cjs.js??ruleSet[1].rules[3].use[2]!D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\src\\sass\\index\\index.scss",
+          "resolvedModule": "./node_modules/css-loader/dist/cjs.js?url=false!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./src/sass/index/index.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:30-57",
+          "moduleId": 389,
+          "resolvedModuleId": 389
+        },
+        {
+          "moduleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "module": "./node_modules/css-loader/dist/runtime/api.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModuleIdentifier": "D:\\www\\other\\FonmanticUI-jQuery-ES6-Boilerplate\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "9:0-14",
+          "moduleId": 645,
+          "resolvedModuleId": 645
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 9:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 3
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 302,
+      "sizes": {
+        "runtime": 302
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 313,
+      "sizes": {
+        "runtime": 313
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 103,
+      "sizes": {
+        "runtime": 103
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "index.bundle.js",
+          "size": 4353
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 4353,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "index.bundle.js",
+          "size": 4353
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 4353,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": []
+}
