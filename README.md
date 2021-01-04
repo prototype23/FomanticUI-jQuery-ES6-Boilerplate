@@ -10,6 +10,7 @@ A boilerplate for advanced content and forms.
   npm install
   npm run prod
 ```
+
 ## Development
 ```
   npm install
@@ -69,6 +70,9 @@ Also creates a `bundle-stats.json` file.
   - Scss font face example. (_fonts.scss)
   - A flexbox scss mixin helper. (_flexbox.scss)
   - A missing scss mixin for the placeholder. (_input-placeholder.scss)
+
+### Batch files
+For windows we included some batch files inside the folder `bat`. You can create shortcuts to your desktop an click them instead of typing the workflow commands.
 
 ## Folder structure
 ### Needed on Distribution / Live
