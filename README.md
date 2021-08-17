@@ -56,11 +56,11 @@ Also creates a `bundle-stats.json` file.
   - [Sass](http://sass-lang.com/) and [Compass mixins](https://github.com/askucher/compass-sass-mixins) - Scss compiler and utils.
 
 ## What's included with simple CDN load
-  - [Fomantic UI 2.8.7](https://Fomantic-ui.com) - User Interface is the language of the web.
+  - [Fomantic UI](https://Fomantic-ui.com) - User Interface is the language of the web.
     - Loaded by CDN url. You can easily update the version.
   - [Ionicons 4.5.10-0](https://ionicons.com/v4/) - Font icons.
     - Fonts are loaded by cdn url by default, but boilerplate contains an example if you prefer to load them with webpack.
-  - [jQuery, v3.5.1](https://jquery.com/) - Event management and DOM manipulation.
+  - [jQuery v3](https://jquery.com/) - Event management and DOM manipulation.
     . Loaded by CDN url. You can easily update the version.
     - We have a webpack commented configuration and a js example if you prefer to load it with webpack. Just uncomment `Expose jQuery` section on the `wepack.common.js` file and `src/index.js`.
 
